@@ -1,0 +1,5 @@
+tut link 
+https://medium.com/rackbrains/manage-heroku-infrastructure-with-terraform-4a167b850300
+
+pre reqs
+- brew install terraform
