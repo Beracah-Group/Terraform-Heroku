@@ -1,2 +1,2 @@
 # Terraform-Heroku
-Managing heroku infrastructure with terraform
+Managing heroku infrastructure automation with terraform
